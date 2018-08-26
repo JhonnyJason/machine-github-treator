@@ -1,0 +1,5 @@
+[Socket]
+ListenStream=/run/github-commands.sk
+
+[Install]
+WantedBy=sockets.target
