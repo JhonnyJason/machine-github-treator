@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/JhonnyJason/machine-github-treator#readme",
   "dependencies": {
-    "github-api": "^3.0.0",
+    "github-api": "^3.4.0",
     "systemd": "^0.3.1"
   }
 }
